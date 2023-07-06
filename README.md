@@ -17,8 +17,8 @@
 An interval timer app with essential features only, devoid of rarely utilized features
 <br/>
 
+![GIF](https://github.com/willhCodes/willhCodes/blob/main/intervalTimerDemonstration.gif)
 
-![GIF](https://junh.dev/assets/img/interval%20timer%20demonstration%20complete.gif)
 <br/>
 Lessons Learned:
 
