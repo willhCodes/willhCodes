@@ -47,7 +47,7 @@ Simple app that returns current "Twitter sentiment score" for queried stock tick
 <br/>
 
 
-![GIF](https://github.com/willhCodes/willhCodes/blob/main/FinTwitScoreDemonstration.gif)
+![GIF](https://github.com/willhCodes/willhCodes/blob/main/twitScoreDemonstration.gif)
 <br/>
 Lessons Learned:
 
