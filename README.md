@@ -97,7 +97,7 @@ App that displays current weather conditions
 <br/>
 
 
-![GIF](https://junh.dev/assets/img/weather-now-demonstration-complete-2.gif)
+![GIF](https://github.com/willhCodes/willhCodes/blob/main/weatherNowDemonstration.gif)
 <br/>
 Lessons Learned:
 
