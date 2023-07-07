@@ -73,7 +73,7 @@ App that shows a list of latest / popular tech news
 <br/>
 
 
-![GIF](https://junh.dev/assets/img/technewsgif.gif)
+![GIF](https://github.com/willhCodes/willhCodes/blob/main/technewsDemonstration.gif)
 <br/>
 Lessons Learned:
 
