@@ -5,7 +5,7 @@
 
 [<img align="center" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/appstore.svg" />][AppStore] &nbsp; [<img align="center" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][Linkedin] &nbsp; [<img align="center" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][GithubRepoPage] 
 
-[Linkedin]:  www.linkedin.com/in/jun-h-6b2555282
+[Linkedin]:  https://linkedin.com/in/jun-h-6b2555282
 [GithubRepoPage]: https://github.com/willhCodes?tab=repositories
 [AppStore]: https://apps.apple.com/us/developer/jun-hyun/id1688453095
 
